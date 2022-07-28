@@ -17,7 +17,7 @@ There are two major deliverables that were to be outlined, in relation to the re
   
   b. Of the 1,549 emplyees eligible for retirement, 1,098 employees are sernior level employees
 
-Number of Individuals Available for Retirement:
+* Number of Individuals Available for Retirement:
 <img width="965" alt="mentorship" src="https://user-images.githubusercontent.com/106715923/181655717-bf39336d-feae-4cee-83f8-332cb72aa1c5.png">
 
 
