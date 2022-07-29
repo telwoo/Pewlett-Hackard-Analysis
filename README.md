@@ -3,6 +3,7 @@
 ## Overview of Project
 Bobby needs my assistant in wokring through SQL. The main purpose of this process is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
+
 ## Results 
 There are two major deliverables that were to be outlined, in relation to the retirement of specific titles and a list of employees who are eligible to participate in a membership program within the organization. These are the following deliverables and it's analysis:
 - Retirement Titles
@@ -24,7 +25,9 @@ Number of Individuals Available for Retirement:
 ## Summary
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-* There will need to be 1,549 positions that need to be filled. See above image of retirement individuals. 
+
+  a. There will need to be 1,549 positions that need to be filled. See above image of retirement individuals.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-* As stated there are 1,098 senior level employees, and there are 77 of that 1,549 retirement ready employees who are "Technique Leaders." 
+
+  a. As stated there are 1,098 senior level employees, and there are 77 of that 1,549 retirement ready employees who are "Technique Leaders." 
