@@ -17,8 +17,14 @@ There are two major deliverables that were to be outlined, in relation to the re
   
   b. Of the 1,549 emplyees eligible for retirement, 1,098 employees are sernior level employees
 
-*Number of Individuals Available for Retirement:
+Number of Individuals Available for Retirement:
 <img width="965" alt="mentorship" src="https://user-images.githubusercontent.com/106715923/181655717-bf39336d-feae-4cee-83f8-332cb72aa1c5.png">
 
 
 ## Summary
+
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* There will need to be 1,549 positions that need to be filled. See above image of retirement individuals. 
+
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* As stated there are 1,098 senior level employees, and there are 77 of that 1,549 retirement ready employees who are "Technique Leaders." 
